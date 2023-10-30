@@ -1,5 +1,7 @@
 #EXTM3U
-     #EXTINF:-1,Canal 1
+     #EXTINF:-1,Bolivisión
      https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision1/chunks.m3u8
-     #EXTINF:-1,Canal 2
-     https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision1/chunks.m3u8
+     #EXTINF:-1,SEO TV
+     https://live.seo.tv.bo/live/SEO1.m3u8
+     #EXTINF:-1,SEO TV - NOVELAS
+     https://live.seo.tv.bo/live/SEO3.m3u8
